@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 Über mich
 
-- 🎓 Derzeit in der Ausbildung / Studium mit Fokus auf **Java-Entwicklung**
+- 🎓 Derzeit in der Ausbildung / Studium mit Fokus auf **Java- und Web-Entwicklung**
 - 🧠 Aktuell lerne ich **Datenstrukturen, Collection-Frameworks und GUI-Entwicklung**
 - 🛠 Ich arbeite mit **Java (OpenJDK 24)** in **IntelliJ**
 - 📬 Kontakt: **smolak.tomasz@outlook.de**
